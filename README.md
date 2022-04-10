@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT
+## OUTPUT:
 <img width="945" alt="image_2022-04-09_18-47-45" src="https://user-images.githubusercontent.com/65499285/162582462-29fa07df-2ecf-4f47-83e8-0d6ffa75b0c1.png">
 <img width="947" alt="image_2022-04-09_18-48-31" src="https://user-images.githubusercontent.com/65499285/162582484-c587dead-ed1e-41da-a0df-8c37d586ef24.png">
 <img width="945" alt="image_2022-04-09_18-49-48" src="https://user-images.githubusercontent.com/65499285/162582503-43a0e877-1ce7-48f5-8ef8-5c85e49e5e93.png">
@@ -119,5 +119,5 @@ public class MainActivity extends AppCompatActivity {
 <img width="947" alt="image_2022-04-09_18-50-54" src="https://user-images.githubusercontent.com/65499285/162582520-6d4ec024-2d52-4824-8645-f623d404b3dd.png">
 <img width="945" alt="image_2022-04-09_18-51-48" src="https://user-images.githubusercontent.com/65499285/162582527-f5bd77d2-9861-45d3-808b-fc887cc0007e.png">
 
-## RESULT
+## RESULT:
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
