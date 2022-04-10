@@ -32,7 +32,10 @@ Program to print the text “Hello World”.
 Developed by: Marinto Richee J
 Registeration Number : 212220230031
 */
-package com.example.welcome;
+```
+### MainActivity.java:
+```
+package com.example.exno1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -86,7 +89,27 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+### activity_main.xml:
+```
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+```
 ## OUTPUT
 <img width="945" alt="image_2022-04-09_18-47-45" src="https://user-images.githubusercontent.com/65499285/162582462-29fa07df-2ecf-4f47-83e8-0d6ffa75b0c1.png">
 <img width="947" alt="image_2022-04-09_18-48-31" src="https://user-images.githubusercontent.com/65499285/162582484-c587dead-ed1e-41da-a0df-8c37d586ef24.png">
