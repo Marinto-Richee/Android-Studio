@@ -28,7 +28,7 @@ Step 7: Save and run the application.
 
 ```
 /*
-Program to print the text “Implicit and Explicit Intents”.
+Program to implement “Implicit Intents”.
 Developed by: Marinto Richee J
 Registeration Number : 212220230031
 */
