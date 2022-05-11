@@ -20,7 +20,7 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
 Step 5: Design layout in activity_main.xml.
 
-Step 6: open google page using Implicit Intents and display factorial number using Explicit Intents in MainActivity file.
+Step 6: Open google page using Implicit Intents in MainActivity file.
 
 Step 7: Save and run the application.
 
