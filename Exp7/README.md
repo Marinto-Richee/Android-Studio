@@ -24,14 +24,14 @@ Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM:
 ```
 /*
 Program to develop “calculator operation”.
-Developed by        : Y Chethan
-Registration Number : 212220230008
+Developed by        : Marinto Richee J
+Registration Number : 212220230031
 */
 ```
 #### MainActivity.java
