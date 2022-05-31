@@ -26,8 +26,6 @@ Step 7: Add animation operations in MainActivity file.
 
 Step 8: Save and run the application.
 
-<br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -103,9 +101,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
-<br><br><br><br><br><br><br><br><br><br><br>
-
 ### activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -330,7 +325,6 @@ public class MainActivity extends AppCompatActivity {
         android:toXScale="1.0"
         android:toYScale="0.0" />
 </set>
-
 ```
 
 ## OUTPUT:
