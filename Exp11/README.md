@@ -70,7 +70,7 @@ public class MyGLActivity extends AppCompatActivity {
 }
 ```
 
-<br><br><br>
+<br>
 
 ### MyGLRenderer.java
 ```
