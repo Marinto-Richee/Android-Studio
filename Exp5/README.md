@@ -25,8 +25,6 @@ Step 6: Accept username and password from the end user and the display informati
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
