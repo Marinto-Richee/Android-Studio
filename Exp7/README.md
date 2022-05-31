@@ -34,7 +34,7 @@ Developed by        : Marinto Richee J
 Registration Number : 212220230031
 */
 ```
-#### MainActivity.java
+### MainActivity.java
 ```
 package com.example.calculator;
 import android.os.Bundle;
@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-#### activity_main.xml
+### activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
