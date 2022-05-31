@@ -24,8 +24,6 @@ Step 6: Display screen of search engine in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -64,9 +62,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
-<br><br>
-
 ### activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -96,8 +91,6 @@ public class MainActivity extends AppCompatActivity {
 
 </RelativeLayout>
 ```
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## OUTPUT:
 
