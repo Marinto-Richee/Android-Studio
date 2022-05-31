@@ -36,7 +36,7 @@ Developed by        : Marinto Richee J
 Registration Number : 212220230031
 */
 ```
-#### MyGLActiviy.java
+### MyGLActiviy.java
 ```
 package com.example.graphics;
 
@@ -72,7 +72,7 @@ public class MyGLActivity extends AppCompatActivity {
 
 <br><br>
 
-#### MyGLRenderer.java
+### MyGLRenderer.java
 ```
 package com.example.graphics;
 
@@ -143,7 +143,7 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
     }
 }
 ```
-#### Cube.java
+### Cube.java
 ```
 package com.example.graphics;
 
@@ -222,7 +222,7 @@ public class Cube {
     }
 }
 ```
-#### Pyramid.java
+### Pyramid.java
 ```
 package com.example.graphics;
 
