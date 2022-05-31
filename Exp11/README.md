@@ -26,8 +26,6 @@ Step 7: Define the shapes in Cube.java and Pyramid.java
 
 Step 8: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -69,8 +67,6 @@ public class MyGLActivity extends AppCompatActivity {
     }
 }
 ```
-
-<br>
 
 ### MyGLRenderer.java
 ```
